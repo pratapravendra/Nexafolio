@@ -1,3 +1,3 @@
 Added Avatars
 Added Logo
-# Need to work on Projects addation
+some new features are to be resolved
